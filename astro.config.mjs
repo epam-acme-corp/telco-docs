@@ -7,6 +7,9 @@ export default defineConfig({
   integrations: [
     starlight({
       title: 'Acme Telco Docs',
+      components: {
+        SiteTitle: './src/components/OPCOSelector.astro',
+      },
       sidebar: [
         {
           label: 'Overview',
