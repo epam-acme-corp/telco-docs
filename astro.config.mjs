@@ -8,7 +8,7 @@ export default defineConfig({
     starlight({
       title: 'Acme Telco Docs',
       components: {
-        SiteTitle: './src/components/OPCOSelector.astro',
+        ThemeSelect: './src/components/ThemeSelectWithOPCO.astro',
       },
       sidebar: [
         {
