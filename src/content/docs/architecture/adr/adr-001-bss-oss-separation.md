@@ -1,5 +1,6 @@
 ---
 title: "ADR-001 BSS/OSS Separation"
+draft: false
 ---
 
 

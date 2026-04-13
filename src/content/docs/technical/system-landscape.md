@@ -1,5 +1,6 @@
 ---
 title: "System Landscape and BSS/OSS Inventory"
+draft: false
 ---
 
 

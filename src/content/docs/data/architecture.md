@@ -1,5 +1,6 @@
 ---
 title: "Data Architecture"
+draft: false
 ---
 
 

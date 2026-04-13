@@ -1,5 +1,6 @@
 ---
 title: "Network Monitoring"
+draft: false
 ---
 
 
